@@ -1,2 +1,1 @@
-# EDA
-EDA Projects
+## This repository contains some efforts at EDA
